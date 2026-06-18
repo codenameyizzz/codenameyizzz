@@ -6,11 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/codenameyizzz/codenameyizzz/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/codenameyizzz/codenameyizzz/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <h2 align="left">Tech Stack</h2>
